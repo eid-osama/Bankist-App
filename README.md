@@ -11,7 +11,7 @@ username: jd
 Interest rate: 1.5%
 PIN: 2222
 Locale: en-US
-##Features
+## Features
 Login system: Users can log in with their credentials (username and PIN) to access their accounts.
 Transaction tracking: View account movements (deposits and withdrawals) with associated dates.
 Money transfer: Transfer money to other users within the system.
